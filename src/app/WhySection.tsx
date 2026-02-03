@@ -59,7 +59,7 @@ export default function WhySection() {
             <MessageCircle className="h-6 w-6" />
             <MapPin className="h-6 w-6" />
           </div>
-          <div className="absolute -right-8 bottom-0 h-10 w-10 rounded-full border-4 border-orange-400 border-b-transparent rotate-60" />
+          <div className="absolute sm:-right-8 right-0 bottom-0 h-10 w-10 rounded-full border-4 border-orange-400 border-b-transparent rotate-60" />
         </div>
       </div>
       <div className="absolute bottom-8 left-1/2 h-6 w-16 -translate-x-1/2  bg-[repeating-linear-gradient(60deg,#ef4444_0_6px,transparent_1px_10px)]" />
