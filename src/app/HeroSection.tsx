@@ -30,7 +30,7 @@ export default function HeroSection() {
                         <div className="absolute right-44 top-0 h-10 w-10 rounded-full border-4 border-yellow-400 border-b-transparent -rotate-60" />
                         <div className="absolute sm:right-32 right-0 bottom-32 h-8 w-8 rounded-full border-4 border-orange-400 border-b-transparent rotate-60" />
                     </div>
-                    <h1 className="my-8 text-2xl sm:text-3xl w-96 font-bold leading-tight text-blue-400">
+                    <h1 className="my-8 text-2xl sm:text-3xl sm:w-96 w-72 font-bold leading-tight text-blue-400">
                         Sell with the fastest-growing and preferred acquisition channel
                     </h1>
 
